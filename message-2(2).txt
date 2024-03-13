@@ -1,1 +1,1 @@
-game.Workspace.resources.RemoteFunction:InvokeServer("giveItem","Dragunov")
+
